@@ -1,3 +1,11 @@
+---
+layout: default
+title: Home
+nav_order: 1
+description: "Cover"
+permalink: /
+---
+
 # Ambients Protocol White Paper
 
 This directory contains all the files and assets for the Ambients Protocol white paper, along with the tools to generate a PDF version.
